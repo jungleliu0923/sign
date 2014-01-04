@@ -28,6 +28,8 @@ int main()
 
 ```
 3 运行结果
+```
 liujuntekiMacBook-Pro:sample liujun$ ./sample 
 0	-12345
 2013960652	3228893707
+```
